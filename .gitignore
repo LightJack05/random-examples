@@ -1,2 +1,5 @@
 caching/main
 caching/main-unoptimized
+undefined-behavior/main-default
+undefined-behavior/main-fwrapv
+undefined-behavior/main-nooptimize
